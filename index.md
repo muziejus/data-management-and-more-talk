@@ -4,16 +4,12 @@
 <a href="http://moacir.com">Moacir P. de Sá Pereira</a> | <a href="http://twitter.com/muziejus">@muziejus</a><br />
 Research Data Librarian | <a href="http://library.columbia.edu">Columbia University Libraries</a> <br />
 moacir.p@columbia.edu | <a href="http://pronoun.is/he">pronoun.is/he</a><br />
-New York, NY, 29 October 2020
+New York, NY, 15 February 2024
 </small>
 
 Note: Thanks all for coming, and let’s get started on today’s workshop. First
 thing’s first, I want you all to open up this presentation on your computers.
 It will make things much, much easier. Head on over to 
-
----
-
-http://talks.moacir.com/research-data-management-plans-and-more/
 
 ---
 
@@ -115,8 +111,7 @@ Backups will rarely, if ever, be done.
 ## Managed Data Are the Rules
 
 * 2011: NSF, NOAA, and NEH require DMPs
-* 2012: NIH joins (new policy [drops
-  tomorrow](https://www.federalregister.gov/public-inspection/2020-23674/final-policy-for-data-management-and-sharing-and-supplemental-information)!)
+* 2012: NIH joins (new policy [as of 2020](https://www.federalregister.gov/public-inspection/2020-23674/final-policy-for-data-management-and-sharing-and-supplemental-information)!)
 * 2014: DOE
 * 2015: NASA
 
